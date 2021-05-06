@@ -1,0 +1,9 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS D:\semester 4\prpl\prpl2021> git config --global user.name "aseplakoni".
+PS D:\semester 4\prpl\prpl2021> git config --global user.email "aseplakoni.1610@gmail.com".
+PS D:\semester 4\prpl\prpl2021>
+
